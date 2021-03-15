@@ -17,4 +17,3 @@ eureka:
       defaultZone:  http://localhost:7001/eureka
 servers:
   port: 333333333
-
